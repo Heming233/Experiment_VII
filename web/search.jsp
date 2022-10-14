@@ -17,4 +17,7 @@
     <input type=submit name="submit" value="查询输入用户">
 </form>
 </body>
+<script>
+    //fine, shit
+</script>
 </html>
